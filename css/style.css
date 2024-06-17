@@ -1,0 +1,45 @@
+.hero{
+    background-color: cornflowerblue;
+}
+.profile-img{
+    height: 100px;
+    border-radius: 50%;
+}
+.col{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    max-width: fit-content;
+    height: auto;
+}
+.section{
+    display: block;
+}
+#features {
+    color: cadetblue;
+}
+#hero{
+    color: cornflowerblue;
+}
+.proj{
+
+    text-align: center;
+}
+#ak{
+    align-items: center;
+}
+
+.ff ul {
+    list-style-position: inside; /* Ensure the bullets/numbers are inside the list item box */
+    padding: 0;
+    margin: 0;
+    display: inline-block; /* Center the ul itself */
+    text-align: left; /* Align text left to keep bullets/numbers aligned */
+}
+
+#hh{
+    border: 2px solid black;
+}
+.proj{
+    background-color:skyblue;
+}
